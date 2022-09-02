@@ -1,0 +1,6 @@
+package com.arklogin.signin_demo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
